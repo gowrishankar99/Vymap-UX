@@ -18,8 +18,14 @@ This project is created using **React** version ^18.2.0
 - npm serve
 
 ## Reference Images
-image.png
-image.png
+- Web
+![image](https://user-images.githubusercontent.com/53333107/231370351-0f3cd77a-210e-4511-83b6-fc9f1f1ab1ed.png)
+![image](https://user-images.githubusercontent.com/53333107/231370325-1d87b03b-d3af-4f40-88a8-2863558b9ff0.png)
+
+- Mobile responsive
+![image](https://user-images.githubusercontent.com/53333107/231370455-d72bfb52-5863-4183-a216-89ba79742816.png)
+![image](https://user-images.githubusercontent.com/53333107/231370520-8df0f3dd-a3be-4f6c-b4f3-57d16f647d40.png)
+![image](https://user-images.githubusercontent.com/53333107/231370581-c85846fc-c327-4456-b5a1-493141a7ee33.png)
 
 
 ### About
